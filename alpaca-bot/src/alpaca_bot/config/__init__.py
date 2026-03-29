@@ -1,1 +1,2 @@
-from .stocks import LARGE_CAP_STOCKS, MID_CAP_STOCKS, SMALL_CAP_STOCKS, STOCKS
+from stocks import LARGE_CAP_STOCKS, MID_CAP_STOCKS, SMALL_CAP_STOCKS, STOCKS
+from settings import max_trade_amount

@@ -1,0 +1,1 @@
+max_trade_amount = 1_000

@@ -4,7 +4,10 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "alpaca-py>=0.43.2",
+    "dotenv>=0.9.9",
+]
 
 [project.scripts]
 alpaca-bot = "alpaca_bot:main"
